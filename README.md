@@ -1,3 +1,6 @@
+![image](https://github.com/Coder-Gokul/React-props-Practice-1/assets/119941012/d4f7de66-feb3-4105-b905-0f43c6e5d091)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
